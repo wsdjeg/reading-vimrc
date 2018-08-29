@@ -1,7 +1,5 @@
 # vimrc 读书会
 
-![reading vimrc](logo.png)
-
 ## 起因
 
 经常有人问我，为什么我的 vimrc 里面这样配置不起作用？又或者，为什么我的 vim 启动这么慢？
