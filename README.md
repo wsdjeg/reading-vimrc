@@ -1,6 +1,6 @@
 # vimrc 读书会
 
-> Let's read vimrc
+![reading vimrc](logo.png)
 
 ## 起因
 
