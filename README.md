@@ -15,6 +15,7 @@
 ## 预配置集合
 
 - [NTBBloodbath's doom-nvim](https://github.com/NTBBloodbath/doom-nvim): A Neovim configuration for the advanced martian hacker
+- [Tehnix's spaceneovim](https://github.com/Tehnix/spaceneovim): Spacemacs for Neovim
 
 
 
