@@ -14,7 +14,7 @@
 
 ## 预配置集合
 
-- [doom-nvim](https://github.com/NTBBloodbath/doom-nvim)
+- [NTBBloodbath's doom-nvim](https://github.com/NTBBloodbath/doom-nvim): A Neovim configuration for the advanced martian hacker
 
 
 
