@@ -1,4 +1,4 @@
-![](logo.png)
+[![](logo.png)]()
 
 
 <!-- vim-markdown-toc GFM -->
